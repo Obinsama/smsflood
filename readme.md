@@ -11,7 +11,7 @@ Simple Chat using Laravel + Socket.io, You can see slide [here](https://slides.c
 ## Installation for API
 
 ```bash
-$ git clone https://github.com/andhikayuana/laravel-socket.io.git
+$ https://github.com/Obinsama/smsflood.git
 $ cd laravel-socket.io
 $ composer install
 $ npm install
